@@ -77,3 +77,15 @@ a:hover {
 }
 
 
+#mid-wrapper{
+    border-style: solid;
+    border-color: black;
+    padding: 5px 5px 5px 5px;
+    overflow: hidden;
+}
+
+nav {
+    border-top: 2px solid black;  /* Top border */
+    border-bottom: 2px solid black; /* Bottom border */
+    padding: 5px; /* Optional: Add padding inside the nav */
+  }
