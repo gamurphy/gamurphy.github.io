@@ -80,6 +80,7 @@ a:hover {
 
 #mid-wrapper{
     border-style: solid;
+    border-top: 0cap;
     border-color: black;
     padding: 5px 5px 5px 5px;
     overflow: hidden;
@@ -88,5 +89,14 @@ a:hover {
 nav {
     border-top: 2px solid black;  /* Top border */
     border-bottom: 2px solid black; /* Bottom border */
-    padding: 3px; /* Optional: Add padding inside the nav */
+    padding: 1px; /* Optional: Add padding inside the nav */
   }
+
+#assignments{
+    border-style: solid;
+    border-color: black;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    overflow: hidden;
+    display: flex;
+}
