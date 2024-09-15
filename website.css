@@ -68,6 +68,7 @@ a:hover {
     height: auto;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 
 #aboutMeParagraph{
@@ -87,5 +88,5 @@ a:hover {
 nav {
     border-top: 2px solid black;  /* Top border */
     border-bottom: 2px solid black; /* Bottom border */
-    padding: 5px; /* Optional: Add padding inside the nav */
+    padding: 3px; /* Optional: Add padding inside the nav */
   }
