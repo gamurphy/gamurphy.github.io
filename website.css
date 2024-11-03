@@ -91,7 +91,7 @@ nav {
     padding: 1px; /* Optional: Add padding inside the nav */
   }
 
-#assignments{
+.assignments{
     border-style: solid;
     border-color: rgb(0, 0, 0);
     padding-left: 5px;
